@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1085151438039",
+    "firebase_url": "https://imagetotext20ws.firebaseio.com",
+    "project_id": "imagetotext20ws",
+    "storage_bucket": "imagetotext20ws.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085151438039:android:5bfdcf1b7ec38b29f7bc92",
+        "android_client_info": {
+          "package_name": "com.soukaina.imagetotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085151438039-jbiek3afiecos8m438gcb3800erm06lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUpTx17h_O8GlNwwCAMLGmc94gt9TbXRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085151438039-jbiek3afiecos8m438gcb3800erm06lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
